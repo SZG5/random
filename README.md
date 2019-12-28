@@ -1,13 +1,13 @@
 # General Webtools
 
 # Browser Tools / Extentions
-uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-SponsorBlock for YouTube [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) | [Site](https://sponsor.ajay.app/)
+SponsorBlock for YouTube - [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) / [Site](https://sponsor.ajay.app/)
 
-StreamKeys [Chrome](https://www.streamkeys.com/) | [Site](https://www.streamkeys.com/)
+StreamKeys - [Chrome](https://www.streamkeys.com/) / [Site](https://www.streamkeys.com/)
 
-Video Speed Modifier - [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) 
+Video Speed Modifier - [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) 
 
 # Ad and Ad Blocking
 
