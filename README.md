@@ -3,13 +3,20 @@
 # Browser Tools / Extentions
 uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-SponsorBlock for YouTube - [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) / [Site](https://sponsor.ajay.app/)
+SponsorBlock for YouTube - [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone?hl=en) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) / [Website](https://sponsor.ajay.app/) / [GitHub](https://github.com/ajayyy/SponsorBlock)
 
-StreamKeys - [Chrome](https://www.streamkeys.com/) / [Site](https://www.streamkeys.com/)
+StreamKeys - [Chrome](https://www.streamkeys.com/) / [Website](https://www.streamkeys.com/)
 
 Video Speed Modifier - [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) 
 
 # Ad and Ad Blocking
+uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+
+Blokada for Android [Website](https://blokada.org/index.html) / [r/blokada](https://www.reddit.com/r/blokada/)
+
+YouTube Vanced for Android [Website](https://vanced.app/index) / [r/vanced](https://www.reddit.com/r/Vanced/wiki/faq) / [Install Instruction](https://www.reddit.com/r/Vanced/wiki/installation)
+
+Pi-hole (DNS Server) [Website](https://pi-hole.net/) / [r/pihole](https://www.reddit.com/r/pihole/) / [Installation by raspberrypi.org](https://www.raspberrypi.org/blog/pi-hole-raspberry-pi/) / [Other Setup Guide](https://www.smarthomebeginner.com/pi-hole-setup-guide/)
 
 # CTF / Ciphers
 
@@ -47,4 +54,5 @@ Video Speed Modifier - [Chrome](https://chrome.google.com/webstore/detail/video-
 
 [Royalty Soaps](https://www.youtube.com/user/RoyaltySoaps) - Soap Art
 
-## Podcasts
+### Podcasts
+No Such Thing As A Fish [Website](https://www.nosuchthingasafish.com/) / [AudioBoom](https://audioboom.com/channel/nosuchthingasafish) / [Spotify](https://open.spotify.com/show/4pqW0HTIeZcx7vqHpwzmZj)
