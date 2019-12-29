@@ -1,4 +1,11 @@
 # General Webtools
+Google Report - [Malware](https://safebrowsing.google.com/safebrowsing/report_badware/?hl=en) / [Phishing](https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en)
+
+Yandex Report - [Spam or Viruses](https://yandex.com/support/search/troubleshooting/delspam.html)
+
+https://www.us-cert.gov/report
+
+
 
 # Browser Tools / Extentions
 uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
@@ -9,18 +16,22 @@ StreamKeys - [Chrome](https://www.streamkeys.com/) / [Website](https://www.strea
 
 Video Speed Modifier - [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) 
 
-# Ad and Ad Blocking
+# Ads and Ad Blocking
 uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-Blokada for Android [Website](https://blokada.org/index.html) / [r/blokada](https://www.reddit.com/r/blokada/)
+Blokada for Android - [Website](https://blokada.org/index.html) / [r/blokada](https://www.reddit.com/r/blokada/)
 
-YouTube Vanced for Android [Website](https://vanced.app/index) / [r/vanced](https://www.reddit.com/r/Vanced/wiki/faq) / [Install Instruction](https://www.reddit.com/r/Vanced/wiki/installation)
+YouTube Vanced for Android - [Website](https://vanced.app/index) / [r/vanced](https://www.reddit.com/r/Vanced/wiki/faq) / [Install Instruction](https://www.reddit.com/r/Vanced/wiki/installation)
 
-Pi-hole (DNS Server) [Website](https://pi-hole.net/) / [r/pihole](https://www.reddit.com/r/pihole/) / [Installation by raspberrypi.org](https://www.raspberrypi.org/blog/pi-hole-raspberry-pi/) / [Other Setup Guide](https://www.smarthomebeginner.com/pi-hole-setup-guide/)
+Pi-hole (DNS Server) - [Website](https://pi-hole.net/) / [r/pihole](https://www.reddit.com/r/pihole/) / [Installation by raspberrypi.org](https://www.raspberrypi.org/blog/pi-hole-raspberry-pi/) / [Other Setup Guide](https://www.smarthomebeginner.com/pi-hole-setup-guide/)
 
 # CTF / Ciphers
 
 # Bored?
+
+### Podcasts
+No Such Thing As A Fish - [Website](https://www.nosuchthingasafish.com/) / [AudioBoom](https://audioboom.com/channel/nosuchthingasafish) / [Spotify](https://open.spotify.com/show/4pqW0HTIeZcx7vqHpwzmZj)
+
 ### YouTubers
 [Ask A Mortician](https://www.youtube.com/channel/UCi5iiEyLwSLvlqnMi02u5gQ) - Death / Funerals and Related Topics 
 
@@ -53,6 +64,3 @@ Pi-hole (DNS Server) [Website](https://pi-hole.net/) / [r/pihole](https://www.re
 -----
 
 [Royalty Soaps](https://www.youtube.com/user/RoyaltySoaps) - Soap Art
-
-### Podcasts
-No Such Thing As A Fish [Website](https://www.nosuchthingasafish.com/) / [AudioBoom](https://audioboom.com/channel/nosuchthingasafish) / [Spotify](https://open.spotify.com/show/4pqW0HTIeZcx7vqHpwzmZj)
