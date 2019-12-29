@@ -5,7 +5,7 @@ Yandex Report - [Spam or Viruses](https://yandex.com/support/search/troubleshoot
 
 [Cybersecurity and Infrastructure Security Agency Report](https://www.us-cert.gov/report)
 
-[G-Drive Hosting](https://drv.tw) - Your CXXX@gmail.com has a few pages running. 
+[G-Drive Hosting](https://drv.tw) - Your CXXX@ gmail.com has a few pages running. 
 
 # Browser Tools / Extentions
 uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
