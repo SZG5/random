@@ -30,7 +30,9 @@ AdNauseam - [Website](https://adnauseam.io/) / [Firefox](https://addons.mozilla.
 # CTF / Ciphers
 [Boxentriq's Cipher Tools](https://www.boxentriq.com/code-breaking) - [Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
 
+[Brute Force a Rail Fence (Zig-Zag)](https://www.dcode.fr/rail-fence-cipher)
 
+[Aristocrat or Patristocrat Cipher](https://bionsgadgets.appspot.com/ww_forms/aristo_pat_web_worker3.html)
 
 # Random Tools
 [Anagram Generator](https://ingesanagram.appspot.com/)
