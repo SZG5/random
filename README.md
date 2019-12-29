@@ -3,7 +3,7 @@ Google Report - [Malware](https://safebrowsing.google.com/safebrowsing/report_ba
 
 Yandex Report - [Spam or Viruses](https://yandex.com/support/search/troubleshooting/delspam.html)
 
-https://www.us-cert.gov/report
+[Cybersecurity and Infrastructure Security Agency Report](https://www.us-cert.gov/report)
 
 
 
@@ -25,7 +25,23 @@ YouTube Vanced for Android - [Website](https://vanced.app/index) / [r/vanced](ht
 
 Pi-hole (DNS Server) - [Website](https://pi-hole.net/) / [r/pihole](https://www.reddit.com/r/pihole/) / [Installation by raspberrypi.org](https://www.raspberrypi.org/blog/pi-hole-raspberry-pi/) / [Other Setup Guide](https://www.smarthomebeginner.com/pi-hole-setup-guide/)
 
+AdNauseam - [Website](https://adnauseam.io/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/) / [GitHub](https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-on-Chrome-Without-Google's-Permission) / [Opera](https://addons.opera.com/en/extensions/details/adnauseam-2/)
+
 # CTF / Ciphers
+[Boxentriq's Cipher Tools](https://www.boxentriq.com/code-breaking) - [Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
+
+
+
+# Random Tools
+[Anagram Generator](https://ingesanagram.appspot.com/)
+
+[Comparing Heights](https://www.mrinitialman.com/OddsEnds/Sizes/sizes.html)
+
+[Reverse Dictionary](https://onelook.com/thesaurus/)
+
+[Rhyme Tool](https://www.rhymezone.com/)
+
+[Tip of My Tongue](http://chir.ag/projects/tip-of-my-tongue/)
 
 # Bored?
 
