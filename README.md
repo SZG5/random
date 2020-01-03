@@ -16,6 +16,8 @@ StreamKeys - [Chrome](https://www.streamkeys.com/) / [Website](https://www.strea
 
 Video Speed Modifier - [Chrome](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/videospeed/) 
 
+Bypass Newsite Paywall - [Chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) / [Firefox](https://github.com/iamadamdev/bypass-paywalls-firefox)
+
 # Ads and Ad Blocking
 uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
