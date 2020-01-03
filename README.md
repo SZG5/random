@@ -5,7 +5,7 @@ Yandex Report - [Spam or Viruses](https://yandex.com/support/search/troubleshoot
 
 [Cybersecurity and Infrastructure Security Agency Report](https://www.us-cert.gov/report)
 
-[G-Drive Hosting](https://drv.tw) - Your CXXX@ gmail.com has a few pages running. 
+[G-Drive Hosting](https://drv.tw)
 
 # Browser Tools / Extentions
 uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
@@ -35,6 +35,12 @@ AdNauseam - [Website](https://adnauseam.io/) / [Firefox](https://addons.mozilla.
 [Brute Force a Rail Fence (Zig-Zag)](https://www.dcode.fr/rail-fence-cipher)
 
 [Aristocrat or Patristocrat Cipher](https://bionsgadgets.appspot.com/ww_forms/aristo_pat_web_worker3.html)
+
+[LSB Image Stegano](https://incoherency.co.uk/image-steganography/)
+
+[Magic Eye Solver](http://magiceye.ecksdee.co.uk/)
+
+[QR Reader Online](https://zxing.org/w/decode.jspx)
 
 # Random Tools
 [Anagram Generator](https://ingesanagram.appspot.com/)
