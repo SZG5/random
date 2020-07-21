@@ -1,11 +1,19 @@
 # General Webtools
+## Report Phishing / Spam / Unsafe Sites
+
 Google Report - [Malware](https://safebrowsing.google.com/safebrowsing/report_badware/?hl=en) / [Phishing](https://safebrowsing.google.com/safebrowsing/report_phish/?hl=en)
 
 Yandex Report - [Spam or Viruses](https://yandex.com/support/search/troubleshooting/delspam.html)
 
 [Cybersecurity and Infrastructure Security Agency Report](https://www.us-cert.gov/report)
 
-[G-Drive Hosting](https://drv.tw)
+## Cybertiping sites
+
+[Canadian Centre for Child Protection](https://www.cybertip.ca/app/en/report)
+
+[National Center for Missing & Exploited Children](https://report.cybertip.org/)
+
+[Child Exploitation and Online Protection Command (UK)](https://www.ceop.police.uk/ceop-reporting/)
 
 # Browser Tools / Extentions
 uBlock Origin - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
@@ -28,6 +36,20 @@ YouTube Vanced for Android - [Website](https://vanced.app/index) / [r/vanced](ht
 Pi-hole (DNS Server) - [Website](https://pi-hole.net/) / [r/pihole](https://www.reddit.com/r/pihole/) / [Installation by raspberrypi.org](https://www.raspberrypi.org/blog/pi-hole-raspberry-pi/) / [Other Setup Guide](https://www.smarthomebeginner.com/pi-hole-setup-guide/)
 
 AdNauseam - [Website](https://adnauseam.io/) / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/) / [GitHub](https://github.com/dhowe/AdNauseam/wiki/Install-AdNauseam-on-Chrome-Without-Google's-Permission) / [Opera](https://addons.opera.com/en/extensions/details/adnauseam-2/)
+
+# Software
+
+[Notepad++](https://notepad-plus-plus.org/) - General editor
+
+[VirtualBox](https://www.virtualbox.org/) - VM's
+
+[Audacity](https://www.audacityteam.org/) - Audio editor
+
+[VideoPad](https://www.nchsoftware.com/videopad/index.html) - Video editor
+
+[GIMP](https://www.gimp.org/) - Image editor
+
+[Inkscape](https://inkscape.org/) - Vector graphics editor
 
 # CTF / Ciphers
 [Boxentriq's Cipher Tools](https://www.boxentriq.com/code-breaking) - [Cipher Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier)
@@ -52,6 +74,8 @@ AdNauseam - [Website](https://adnauseam.io/) / [Firefox](https://addons.mozilla.
 [Rhyme Tool](https://www.rhymezone.com/)
 
 [Tip of My Tongue](http://chir.ag/projects/tip-of-my-tongue/)
+
+~~[G-Drive Hosting](https://drv.tw/)~~
 
 # Bored?
 
